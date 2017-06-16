@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Guardian News</string>
+    <string name="no_date">no date</string>
+    <string name="no_data_available">No data available</string>
+    <string name="device_not_connected">Device is not connected to the internet</string>
+    <string name="refresh">Refresh</string>
+</resources>
